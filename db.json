@@ -1,0 +1,20 @@
+{
+  "products": [
+    {
+      "id": "45fd",
+      "title": "con vit",
+      "image": "https://i.pinimg.com/736x/16/63/85/1663859a564afe924c64e84b5c0bff22.jpg",
+      "price": 2000000,
+      "brand": "Dell",
+      "isHot": true
+    },
+    {
+      "id": "d73e",
+      "title": "su tu",
+      "image": "https://i.pinimg.com/736x/00/8d/39/008d39da20866073525b19a3bbfdc021.jpg",
+      "price": 123,
+      "brand": "HP",
+      "isHot": false
+    }
+  ]
+}
